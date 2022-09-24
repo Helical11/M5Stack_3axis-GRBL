@@ -2,8 +2,8 @@
 
 ## About
 
-日本語  
-英語
+M5StackとGRBLモジュールを使用した直動機構  
+Linear motion mechanism using M5Stack and GRBL modules
 
 ---
 
