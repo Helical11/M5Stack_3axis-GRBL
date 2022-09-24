@@ -1,4 +1,4 @@
-# M5Stack_3axis-GRBL
+# M5Stack 3axis-GRBL
 
 ## About
 
@@ -27,8 +27,22 @@ Linear motion mechanism using M5Stack and GRBL modules
 
 ---
 
+## Reference
+
+- [M5Stack_Module_GRBL13.2](https://github.com/m5stack/MODULE_GRBL13.2)
+- [GRBL v0.8](https://github.com/grbl/grbl/wiki/Configuring-Grbl-v0.8)
+- [M5Stackでペンプロッタを作ってみた](https://qiita.com/coppercele/items/8e35785da1dc717a0970)
+
+---
+
 ## Author
 
 @HelicalEngineer  
-[Twitter](https://twitter.com/HelicalEngineer "Twitter")  
-[WebSite](https://helical-engineer.com/ "WebSite")  
+[Twitter](https://twitter.com/HelicalEngineer)  
+[WebSite](https://helical-engineer.com/)  
+
+---
+
+## License
+
+[MIT License](LICENSE)
