@@ -31,7 +31,7 @@ void setup() {
   M5.begin();
   M5.Power.begin();
   Wire.begin(21, 22);
-  _GRBL.Init(&Wire);
+  _GRBL.Init(&Wire,100,100,100,10);
   Serial.begin(115200);
   m5.Lcd.setTextColor(WHITE, BLACK);
   m5.Lcd.setTextSize(3);
